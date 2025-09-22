@@ -2,7 +2,7 @@
 
 Este projeto tem como objetivo automatizar **testes funcionais** no **SIGAA** da **UERN** utilizando **Selenium** integrado com a linguagem **Java**.
 
-O projeto foi desenvolvido como **Trabalho de Conclusão de Curso (TCC)** para a obtenção do título de **Bacharel em Ciência da Computação**.  
+O projeto foi desenvolvido como parte do **Trabalho de Conclusão de Curso (TCC)** para a obtenção do título de **Bacharel em Ciência da Computação**.  
 Na data de sua conclusão, o SIGAA/UERN estava na versão **3.46.3**, e todos os scripts foram testados e funcionaram corretamente nesse ambiente.  
 Com futuras atualizações do sistema, pode ser necessário realizar ajustes adicionais para que os scripts continuem funcionando.
 
